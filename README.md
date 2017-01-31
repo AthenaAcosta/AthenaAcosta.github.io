@@ -15,6 +15,6 @@ A Quick Trip Through My Life:
     + Our beloved friend [Matthew Griffin](https://www.facebook.com/0m.0g.0) lead the ceremoney in what become one of our most treasured moments together.    
 
 
-##Professional Life:##  
+##Professional Life:  
 
 * My first job After Moving to San Francisco was at [Magnasun Lexus in Freemont](http://www.magnussenlexusfremont.com/)
