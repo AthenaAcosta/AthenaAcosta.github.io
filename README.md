@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 ---
-layout = posts
+layout: posts
+title: About Me
 ---
 I, Stéphanie from the Island of Tahiti, French Polynesia 🇵🇫 🇫🇷.
 My very origins are quite distinct and unique to which my father is of Asian descent and my mother of English, Danish, Scandinavian and Tahitian origins of course.
