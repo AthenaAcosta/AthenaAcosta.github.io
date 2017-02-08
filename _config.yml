@@ -1,3 +1,32 @@
-title: "Genius @ Charisma"
-Author: Stephanie Acosta
-theme: jekyll-theme-cayman
+# Setup
+title: "Stephanie Athena Acosta"
+
+# Use absolute URL when not hosting on the root of server
+
+url: "http://AthenaAcosta.xyz"
+baseurl: "" 
+
+markdown: kramdown
+permalink: /writing/:title
+
+
+navigation:
+ - title: Home
+   url: /
+ - title: Writing
+   url: /writing/
+ - title: About
+   url: /about/
+
+
+# Assets
+
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+
+
+
+port: 4000
